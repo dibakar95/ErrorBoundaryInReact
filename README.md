@@ -1,2 +1,0 @@
-# ErrorBoundaryInReact
-Created with CodeSandbox
